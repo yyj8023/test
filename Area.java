@@ -1,11 +1,9 @@
-package com.imooc.o2o.entity;
 
 import java.util.Date;
 
 public class Area {
 	private Integer areaId;//id
 	private String areaName;//名称
-/*	private String areaDesc;*/
 	private Integer priority;//权重
 	private Date createTime;//创建时间
 	private Date lastEditTime;//更新时间
